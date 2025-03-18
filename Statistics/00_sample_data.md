@@ -12,9 +12,9 @@ If we want to predict elections outcome. then we can ask some voters randomly le
 
 ## The way logic work is you never accept a hypothesis. You either reject H0 or don't reject H0 based on data.
 you and your friend discussing on 1 point. better to make hypothesis
-h0 - null hypothesis like coin is fair and out of 200 toss, we will get 100 head and 100 tail.
-h1 - it is baised- we will get more head then tails. 
+- h0 - null hypothesis like coin is fair and out of 200 toss, we will get 100 head and 100 tail.
+- h1 - it is baised- we will get more head then tails. 
 
 now perform the analysis and reject these hypothesis.
-Type 1 error: if you reject h0 but you should not.
-Type 2 error: if you don't reject h0 but you should. 
+- Type 1 error: if you reject h0 but you should not.
+- Type 2 error: if you don't reject h0 but you should. 
